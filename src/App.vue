@@ -54,7 +54,7 @@ export default {
     BookingForm
   },
   data: () => ({
-    calId: '1n182buc4edvcgvaa5jdni736c@group.calendar.google.com',
+    calId: 'bsmnhvn6fk21r6318k1qfa1rqc@group.calendar.google.com',
     ready: false,
     windowHeight: window.innerHeight,
     start: moment().format('YYYY-MM-DD'),
