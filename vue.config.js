@@ -1,4 +1,4 @@
 module.exports = {
   transpileDependencies: ['vuetify'],
-  publicPath: process.env.NODE_ENV === 'production' ? '/fab/' : '/'
+  publicPath: process.env.NODE_ENV === 'production' ? '/fab-cal/' : '/'
 };
